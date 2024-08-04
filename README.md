@@ -1,5 +1,4 @@
 
-```markdown
 # AI Image Generator
 
 This project is a web-based tool that generates images based on user-provided text prompts using a JavaScript-powered AI Image Generator API. The tool allows users to specify the number of images they want to generate and displays the generated images in a gallery format.
@@ -120,5 +119,3 @@ app.use('/api', createProxyMiddleware({
 app.listen(3000, () => {
   console.log('Proxy server running on http://localhost:3000');
 });
-```
-```
